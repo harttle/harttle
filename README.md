@@ -12,9 +12,4 @@
 
 ![Skills](https://skillicons.dev/icons?i=angular,azure,css,django,docker,dotnet,electron,figma,gcp,grafana,html,js,css,jquery,jest,linux,md,lua,matlab,mongodb,mysql,nginx,php,py,ruby,rails,raspberrypi,react,redis,redux,regex,rollupjs,sass,sqlite,spring,svg,ts,vim,vue,webpack,workers)
 
-<a href="#">
-<img alt="Harttle's Github Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=harttle&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=transparent&hide=contribs&count_private=true" height="185px">
-</a>
-<a href="#">
-<img alt="Harttle's Top langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER&theme=transparent" height="185px">
-</a>
+<img alt="Harttle's Github Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=harttle&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=transparent&hide=contribs&count_private=true" height="185px"><img alt="Harttle's Top langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER&theme=transparent" height="185px">
