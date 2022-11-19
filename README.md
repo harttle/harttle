@@ -1,7 +1,6 @@
 # Hi there 👋
 
 - 🎯 I'm the author of [LiquidJS](https://liquidjs.com/), do you need a template engine anyway? Star it! 👇
-
   [![LiquidJS](https://github-readme-stats.vercel.app/api/pin/?username=harttle&repo=liquidjs)](https://github.com/harttle/liquidjs)
 - ❤️ I’m constantly learning Vim and Linux.
   - Always buried in Raspi, NAS MBs, routers, etc.
