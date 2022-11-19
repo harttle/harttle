@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**harttle/harttle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm the author of [LiquidJS](https://liquidjs.com/) and still working on it now and then for bugfixes and new features.
+- ❤️ I’m constantly learning Vim and Linux, always buried in Raspi, NAS MBs, routers, etc.
+- 📫 Feel free to contact me for anything new or interesting ([email](mailto:harttleharttle@gmail.com), [telegram](https://t.me/Harttle)).
 
-Here are some ideas to get you started:
+![Skills](https://skillicons.dev/icons?i=angular,azure,css,django,docker,dotnet,electron,figma,gcp,grafana,html,js,css,jquery,jest,linux,md,lua,matlab,mongodb,mysql,nginx,php,py,ruby,rails,raspberrypi,react,redis,redux,regex,rollupjs,sass,sqlite,spring,svg,ts,vim,vue,webpack,workers)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=harttle&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=harttle&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Harttle's GitHub stats" height="185px">
+</a>
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
+</a>
